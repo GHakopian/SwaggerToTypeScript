@@ -1,0 +1,20 @@
+{
+  "name": "es11.adminportal.api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "gulp-json-editor": "^2.5.2",
+    "gulp-streamify": "^1.0.2",
+    "request": "^2.88.0",
+    "vinyl-source-stream": "^2.0.0"
+  }
+}
