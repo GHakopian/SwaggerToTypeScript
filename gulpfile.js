@@ -1,3 +1,5 @@
+// Author: Garik Hakopian
+
 var fs = require('fs');
 const { task } = require('gulp');
 var gulp = require('gulp'),
