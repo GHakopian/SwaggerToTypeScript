@@ -7,6 +7,6 @@ This is a small gulp script to generate typescript types and services from swagg
 <pre>npm install</pre>
 <p>Make sure gulp is installed globally</p>
 <pre>npm install gulp -g</pre>
-<p>Change the options in the fulpfile to fit your needs and run the gulp task</p>
+<p>Change the options in the gulpfile to fit your needs and run the gulp task</p>
 <pre>gulp GenerateTypeScript</pre>
 
