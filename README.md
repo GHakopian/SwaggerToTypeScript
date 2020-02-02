@@ -1,6 +1,6 @@
 # SwaggerToTypeScript
 
-This is a small gulp script to generate typescript types and services from swagger json.
+This is a small gulp script to generate typescript types and services from swagger json. it currently supports open api 2.0
 
 <h2>Getting started</h2>
 <p>Clone or download the files into your project and install the dependencies via npm</p>
